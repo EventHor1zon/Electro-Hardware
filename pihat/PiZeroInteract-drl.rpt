@@ -1,0 +1,26 @@
+Drill report for /home/ac0lyte/Electronics/PiHat/PiZeroInteract/PiZeroInteract.kicad_pcb
+Created on Thu 28 Mar 2019 13:57:42 GMT
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'PiZeroInteract-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (235 holes)
+    T2  0.55mm  0.022"  (2 holes)  (with 2 slots)
+    T3  0.85mm  0.033"  (2 holes)  (with 2 slots)
+    T4  1.00mm  0.039"  (44 holes)
+
+    Total plated holes count 283
+
+
+Drill file 'PiZeroInteract-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (2 holes)
+
+    Total unplated holes count 2
