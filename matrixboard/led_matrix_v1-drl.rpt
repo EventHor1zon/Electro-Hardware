@@ -1,0 +1,24 @@
+Drill report for /home/ac0lyte/Electronics/kicad_test/kicad_test_1/led_matrix_v1/led_matrix_v1.kicad_pcb
+Created on Sun 13 Jan 2019 01:36:44 GMT
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'led_matrix_v1-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (21 holes)
+    T2  0.90mm  0.035"  (64 holes)
+    T3  1.00mm  0.039"  (4 holes)
+
+    Total plated holes count 89
+
+
+Drill file 'led_matrix_v1-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
